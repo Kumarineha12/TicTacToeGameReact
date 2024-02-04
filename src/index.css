@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background:url("https://media.istockphoto.com/id/168678735/photo/metal-tic-tac-toe-game-pieces.webp?b=1&s=170667a&w=0&k=20&c=I_Lr3gpHLPuxMtCQbKSgqUUG2iSQMdBHd0sMnbncCcE=");
+  background-repeat: no-repeat;
+  background-size: 1800px 900px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
